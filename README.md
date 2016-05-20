@@ -1,6 +1,6 @@
 #ChefSteps
 
-* https://github.com/step1profit/inde_struct
+* https://github.com/step1profit/chef_steps
 
 ##DESCRIPTION
 
