@@ -1,0 +1,15 @@
+Gemfile
+History.txt
+LICENSE
+Manifest.txt
+README.md
+Rakefile
+bin/chef_steps
+lib/chef_steps.rb
+lib/chef_steps/parser.rb
+lib/chef_steps/version.rb
+lib/core_ext/array/extract_options.rb
+test/files/email_output.txt
+test/files/emails.txt
+test/parser_test.rb
+test/test_helper.rb
